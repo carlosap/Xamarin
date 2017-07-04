@@ -1,0 +1,15 @@
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\QuoteApp.dll
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\QuoteApp.pdb
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.csprojResolveAssemblyReference.cache
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.MainPage.xaml.g.cs
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.App.xaml.g.cs
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.dll
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.pdb
