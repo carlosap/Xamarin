@@ -11,5 +11,12 @@ C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.csprojResolveAssemblyReference.cache
 C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.MainPage.xaml.g.cs
 C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.App.xaml.g.cs
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.StackLayoutLogin.xaml.g.cs
 C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.dll
 C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.pdb
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.StackLayoutImage.xaml.g.cs
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.GridCalculator.xaml.g.cs
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.GridLogin.xaml.g.cs
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.AbsoluteLayoutAddCredit.xaml.g.cs
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.AbsoluteLayoutFooter.xaml.g.cs
+C:\code\Xamarin\QuoteApp\QuoteApp\QuoteApp\obj\Debug\QuoteApp.RelativeLayoutAddCredit.xaml.g.cs

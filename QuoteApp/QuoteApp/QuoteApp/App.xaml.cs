@@ -13,7 +13,15 @@ namespace QuoteApp
         {
             InitializeComponent();
 
-            MainPage = new QuoteApp.MainPage();
+            //MainPage = new QuoteApp.MainPage();
+            //MainPage = new StackLayoutLogin();
+            //MainPage = new StackLayoutImage();
+            //MainPage = new GridCalculator();
+            //MainPage = new GridLogin();
+            //MainPage = new AbsoluteLayoutAddCredit();
+            //MainPage = new AbsoluteLayoutFooter();
+            MainPage = new RelativeLayoutAddCredit();
+
         }
 
         protected override void OnStart()
