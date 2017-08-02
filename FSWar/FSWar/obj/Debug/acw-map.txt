@@ -1,0 +1,4 @@
+MotionDetector.Activity1, FSWar;md57fb3f16f56da2a06f47d4ce20c37df6a.Activity1
+MotionDetector.Activity1, FSWar, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57fb3f16f56da2a06f47d4ce20c37df6a.Activity1
+MotionDetector.Activity1;md57fb3f16f56da2a06f47d4ce20c37df6a.Activity1
+motiondetector.Activity1;md57fb3f16f56da2a06f47d4ce20c37df6a.Activity1

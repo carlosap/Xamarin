@@ -1,0 +1,53 @@
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\FSWar.dll
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\FSWar.pdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\FSWar.FSWar.apk
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\FSWar.FSWar-Signed.apk
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\FSWar.dll
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\FSWar.pdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\bin\FSWar.FSWar.apk
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\res\layout\main.xml
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\res\values\strings.xml
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\res\drawable\icon.png
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\R.cs.flag
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\uploadflags.txt
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\FSWar.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\Java.Interop.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\Mono.Android.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\mscorlib.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\System.Core.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\System.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\System.Net.Http.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\System.Xml.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\FSWar.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\System.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\FSWar.csprojResolveAssemblyReference.cache
+C:\Users\mnunez\documents\visual studio 2015\Projects\FSWar\FSWar\obj\Debug\FSWar.dll.mdb
+C:\code\Xamarin\FSWar\FSWar\bin\Debug\FSWar.dll
+C:\code\Xamarin\FSWar\FSWar\bin\Debug\FSWar.pdb
+C:\code\Xamarin\FSWar\FSWar\bin\Debug\FSWar.FSWar.apk
+C:\code\Xamarin\FSWar\FSWar\bin\Debug\FSWar.FSWar-Signed.apk
+C:\code\Xamarin\FSWar\FSWar\obj\Debug\FSWar.dll
+C:\code\Xamarin\FSWar\FSWar\obj\Debug\FSWar.pdb
+C:\code\Xamarin\FSWar\FSWar\obj\Debug\android\bin\FSWar.FSWar.apk
+C:\code\Xamarin\FSWar\FSWar\obj\Debug\res\layout\main.xml
+C:\code\Xamarin\FSWar\FSWar\obj\Debug\res\values\strings.xml
+C:\code\Xamarin\FSWar\FSWar\obj\Debug\res\drawable\icon.png
+C:\code\Xamarin\FSWar\FSWar\obj\Debug\R.cs.flag
+C:\code\Xamarin\FSWar\FSWar\obj\Debug\uploadflags.txt
+C:\code\Xamarin\FSWar\FSWar\obj\Debug\FSWar.csprojResolveAssemblyReference.cache
+C:\code\Xamarin\FSWar\FSWar\bin\Debug\FSWar.dll.mdb
+C:\code\Xamarin\FSWar\FSWar\obj\Debug\android\assets\FSWar.dll.mdb
