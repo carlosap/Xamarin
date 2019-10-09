@@ -15,9 +15,13 @@ namespace NewsApp.Views
             BindingContext = this.viewModel = viewModel;
         }
 
-        private void ItemsListView_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
+        async void ItemsListView_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            throw new System.NotImplementedException();
+            var selectedArticle = e.SelectedItem as Article;
+            if (selectedArticle == null)
+                return;
+
+            await Navigation.PushModalAsync(new NavigationPage(new HeadLineDetailPage(new HeadLineDetailViewModel(selectedArticle))),true);
         }
 
         protected override void OnAppearing()

@@ -36,9 +36,8 @@ namespace NewsApp.ViewModels
                 var headLineBy = await HeadLineDataStore.GetNewsBySourceNameAsync(sourcename);
                 var articles = headLineBy.Articles;
                 foreach (var item in articles)
-                {
                     Articles.Add(item);
-                }
+                
             }
             catch (Exception ex)
             {
