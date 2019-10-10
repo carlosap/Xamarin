@@ -20,7 +20,7 @@
         <StackLayout>
             <Image IsVisible="{Binding IsImage}" Source="{Binding ImageSource}" />
 
-            <StackLayout IsVisible="{Binding IsTitle}" HorizontalOptions="Center" Padding="10">
+            <StackLayout HorizontalOptions="Center" Padding="10">
                 <Label
                     Text="{Binding Title}"
                     TextColor="Black"
