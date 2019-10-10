@@ -21,7 +21,7 @@ namespace NewsApp.ViewModels
             LoadArticlesCommand = new Command(async () => await ExecuteLoadArticlesCommand(headLine.Title.ToLower()));
         }
 
-        async Task ExecuteLoadArticlesCommand(string sourcename)
+        public async Task ExecuteLoadArticlesCommand(string sourcename)
         {
             //pattern use to protect async functions
             if (IsBusy)
