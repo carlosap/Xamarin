@@ -12,7 +12,6 @@ namespace NewsApp.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        public IDataStore<Item> DataStore => DependencyService.Get<IDataStore<Item>>();
 
         //this can sqlite or MS SQL
         public IHeadLineDataStore HeadLineDataStore => DependencyService.Get<IHeadLineDataStore>() ?? new HeadLineDataStore();

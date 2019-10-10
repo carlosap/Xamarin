@@ -13,8 +13,7 @@ namespace NewsApp
         public App()
         {
             InitializeComponent();
-
-            DependencyService.Register<MockDataStore>();
+            DependencyService.Register<HeadLineDataStore>();
             MainPage = new MainPage();
         }
 
